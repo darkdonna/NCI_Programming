@@ -1,0 +1,43 @@
+Column, Non-Null Count
+Order ID,1734
+Order Number,1734
+Order Created At,1734
+Status,1734
+Currency,1734
+Total,1729
+Total Discount,1727
+Total Tax,374
+Total Items,1734
+Cart Tax,1734
+Discount Tax,373
+Total Refunds,65
+Total After Refunds,1664
+Net,1681
+Company,1019
+City,1731
+State,1118
+Country,1733
+Email,1734
+Order Updated At,1734
+Order Completed At,1299
+Order Paid At,1299
+Payment Method,1588
+Payment Method Title,1588
+Customer User Agent,1734
+Customer Note,0
+Customer ID,1734
+Customer Role,1729
+Created Via,1734
+Order Type,933
+Parent Subscription ID,800
+Line Item ID,1734
+Line Item Product ID,1734
+Line Item Variation ID,1734
+Line Item Name,1734
+Line Item Sku,0
+Line Item Quantity,1734
+Line Item Subtotal,1734
+Line Item Subtotal Tax,1734
+Line Item Total,1734
+Line Item Total Tax,1734
+Line Item Price,1734
